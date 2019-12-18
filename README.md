@@ -1,6 +1,6 @@
-# Architecture of modelTrainingStorage Server - Back-End Server and Front-End Web Server 
+# Architecture of modelTraining Server - BackEnd Server and FrontEnd Web Server 
 
-Launch a neuronal network model using Back-End server and Front-End Web server
+Launch a neuronal network model using BackEnd server and FrontEnd Web server
 EC2, CNN, MNIST, Keras, Tensorflow 
 
 ## Infrastructure 
